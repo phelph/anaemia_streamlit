@@ -130,7 +130,7 @@ proba_final = 99
 proba_cnn = 99
 proba_rf = 92
 
-url = 'http://127.0.0.1:8080/predict'
+url = 'https://anaemia-api-v2-zshg3vag6q-ey.a.run.app/predict'
 probas = requests.get(url).json()['result']
 proba_cnn = 100 * round(probas[0]['probability'],2)
 proba_rf = 100 * round(probas[1]['probability'],3)
