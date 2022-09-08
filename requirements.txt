@@ -1,8 +1,7 @@
-google-cloud
 google
+google-cloud
 numpy
 matplotlib
 Pillow
-#test
 streamlit
 opencv-python
