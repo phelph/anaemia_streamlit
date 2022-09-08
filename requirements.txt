@@ -1,0 +1,4 @@
+google-cloud
+numpy
+matplotlib
+PIL
