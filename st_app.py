@@ -2,7 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
-from dataframe_creation.resizing import resize_image
+from resizing import resize_image
 from google.cloud import storage
 import requests
 
