@@ -1,4 +1,5 @@
 google-cloud
+google
 numpy
 matplotlib
 Pillow
